@@ -1,4 +1,4 @@
-# mac-vendor-lookup
+# maclookup
 A simple script for viewing MAC Address Vendor.
 
 
