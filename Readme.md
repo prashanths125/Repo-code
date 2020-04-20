@@ -1,7 +1,6 @@
 # mac-vendor-lookup
 A simple script for viewing MAC Address Vendor.
 
-Note: chmod +777 Macaddresslookup
 
 ## Usage
 $ **./Macaddresslookup** <mac_addr>
